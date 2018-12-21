@@ -1,0 +1,24 @@
+{
+  "name": "gixio",
+  "version": "1.0.1",
+  "description": "@stcgoal Common IO packaging NodeJS Input/Output",
+  "main": "gixio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeIsabelleX/gixio.git"
+  },
+  "keywords": [
+    "gix",
+    "io",
+    "common"
+  ],
+  "author": "J. Guillaume Isabelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillaumeIsabelleX/gixio/issues"
+  },
+  "homepage": "https://github.com/GuillaumeIsabelleX/gixio#readme"
+}
